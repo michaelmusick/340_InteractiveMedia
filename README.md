@@ -32,7 +32,7 @@ This course will include a mix of reading, discussion, interactive development, 
 - Topic: Introduction to "interactive systems"
 - Focus Areas: 
     1. Syllabus & Class overview. 
-    2. Background Survey.
+    2. [Background Survey.](https://docs.google.com/forms/d/e/1FAIpQLSdfhXwpkt3R4vbX61iG134V0QupsHv94xkD1bgnxLiZUb0uQw/viewform) 
 - Exercises / Assignments:
 
 ### Week 1.2: 8.31
