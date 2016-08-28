@@ -14,6 +14,7 @@ The primary goal for this course is to explore the theory and technique of creat
 - User interaction design
 - Installation art
 - Game design
+
 This course will include a mix of reading, discussion, interactive development, projects, and tests. As this is an intensive course in a developing area, students are expected to be in class and to participate. 
 
 ## Listserv
