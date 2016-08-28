@@ -249,9 +249,8 @@ IMPORTANT: Assignments handed in after the due date and time will have points de
 
 ### Grade Break Down    
 Grades will be determined according to the following breakdown:
-* Regular Assignments 50%
-* Participation and Attendance 20%
-* Exam 10%
+* Projects 50%
+* Participation and Attendance 30%
 * Final Project 20%
 
 Letter Break Downs
