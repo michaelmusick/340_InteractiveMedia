@@ -27,121 +27,183 @@ This course will include a mix of reading, discussion, interactive development, 
 
 ## Course Outline
 ## SECTON 1: Fundamentals
-### Week 1: 8.29
+### Week 1.1: 8.29
 - Topic: Introduction to "interactive systems"
 - Focus Areas: 
-    1. Syllabus & Class overview. Background Survey.
-    2. What are "interactive systems". Discussion of what the semester will look like.
+    1. Syllabus & Class overview. 
+    2. Background Survey.
+- Exercises / Assignments:
+
+### Week 1.2: 8.31
+- Topic: Introduction to "interactive systems"
+- Focus Areas: 
+    1. What are "interactive systems". 
+    2. Discussion of what the semester will look like.
 - Exercises / Assignments:
     
-### Week 2: 9.5 [Monday Holiday]
-- Topic: 
-- Focus Areas: 
-    1. _No Class_
-    2. 
-- Exercises / Assignments:
-
-### Week 3: 9.12
+### Week 2.2: 9.7 [Monday Holiday]
 - Topic: 
 - Focus Areas: 
     1. 
-    2. 
 - Exercises / Assignments:
 
-### Week 4: 9.19
+### Week 3.1: 9.12
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
 - Exercises / Assignments:
 
-### Week 5: 9.26
+### Week 3.2: 9.14
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 4.1: 9.19
+- Topic: 
+- Focus Areas: 
+    1. 
+- Exercises / Assignments:
+
+### Week 4.2: 9.21
+- Topic: 
+- Focus Areas: 
+    1. 
+- Exercises / Assignments:
+
+### Week 5.1: 9.26
+- Topic: 
+- Focus Areas: 
+    1. 
+- Exercises / Assignments:
+
+### Week 5.2: 9.28
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 ## SECTION 2: 
-### Week 6: 10.3
+### Week 6.1: 10.3
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 6.2: 10.5
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
-### Week 7: 10.10
+### Week 7.1: 10.10
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 7.2: 10.12
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
-### Week 8: 10.17
+### Week 8.1: 10.17
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 8.2: 10.19
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
-### Week 9: 10.24
+### Week 9.1: 10.24
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 9.1: 10.26
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
-### Week 10: 10.31
+### Week 10.1: 10.31
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 10.2: 11.2
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
 ## SECTION 3: 
-### Week 11: 11.7 [Tuesday, Friday Holiday]
+### Week 11.1: 11.7 
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 11.2: 11.9
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
-### Week 12: 11.14
+### Week 12.1: 11.14
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
+- Exercises / Assignments:
+
+### Week 12.2: 11.16
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
-### Week 13: 11.21
+### Week 13.1: 11.21
 THANKSGIVING BREAK [Wednesday, Thursday, Friday Holiday]
+- Topic: **EXAM**
+
+
+### Week 14.1: 11.28
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. _No Class_
+- Exercises / Assignments:
+
+### Week 14.2: 11.30
+- Topic: 
+- Focus Areas: 
+    1. 
 - Exercises / Assignments:
 
 
-### Week 14: 11.28
+### Week 15.1: 12.5
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
 - Exercises / Assignments:
 
-
-### Week 15: 12.5
+### Week 15.2: 12.7
 - Topic: 
-- Focus Areas:
+- Focus Areas: 
     1. 
-    2. 
 - Exercises / Assignments:
 
 
