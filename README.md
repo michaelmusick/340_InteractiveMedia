@@ -42,7 +42,7 @@ This course will include a mix of reading, discussion, interactive development, 
   * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
   * Setting up your own GitHub Blog to submit homework
     * [SourceTree](https://www.sourcetreeapp.com) vs [GitHub Desktop](https://desktop.github.com) vs [`git`](https://try.github.io/levels/1/challenges/1)
-  * Pulling from this GitHub Site `https://github.com/michaelmusick/MART191_CreativeCoding/`
+  * Pulling from this GitHub Site `https://github.com/michaelmusick/340_interactiveMedia/`
 * **TODO**
   * [**Go to the HW Wiki**](https://github.com/michaelmusick/340_InteractiveMedia/wiki/HW-Week-1.1)
 
@@ -50,15 +50,31 @@ This course will include a mix of reading, discussion, interactive development, 
     -  Readings for Wednesday _(see below)_
 
 ### Week 1.2: 8.31
-- Topic: Introduction to "interactive systems"
+- Topic: Introduction to "interactive systems" and "Hello World" for p5.js
 - Focus Areas: 
-    1. Discussion of what the semester will look like.
-    2. What are "interactive systems" and "Interaction Experience Design". 
-    3. Discussion of 
+    1. What are "interactive systems" and "Interaction Experience Design". 
+    2. Discussion of 
         1. Lopes, Dominic M McIver. 2001. “The Ontology of Interactive Art.” Journal of Aesthetic Education 35 (4): 65–81. doi:10.2307/3333787.
             2. [https://www.jstor.org/stable/3333787?seq=1#page_scan_tab_contents](https://www.jstor.org/stable/3333787?seq=1#page_scan_tab_contents)
         3. What is "Interaction Design"
             4. [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/interaction-design-brief-intro](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/interaction-design-brief-intro)
+    
+    * Getting started, your first program
+      * Download Examples
+      * Drawing with numbers: [video tutorial](https://vimeo.com/channels/learningp5js/137979314)
+      * Shape and color functions: [video tutorial](https://vimeo.com/channels/learningp5js/137979312)
+      * `setup()` and `draw()`
+      * Downloading p5.js
+       * Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
+      * [p5.js reference](http://p5js.org/reference)
+    * [Uploading your sketch !!! ADD SOMETHING](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
+    * Adding your response as a markdown file
+    * <a id="optional-1">Optional viewing / reading:</a>
+      * Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
+      * [Introductory p5.js videos](https://vimeo.com/channels/learningp5js/)
+      * [FORM+CODE: Introduction and What is Code?](http://formandcode.com) 
+      * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
+      * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
 - Exercises / Assignments:
     
 ### Week 2.2: 9.7 [Monday Holiday]
