@@ -33,6 +33,19 @@ This course will include a mix of reading, discussion, interactive development, 
 - Focus Areas: 
     1. Syllabus & Class overview. 
     2. [Background Survey.](https://docs.google.com/forms/d/e/1FAIpQLSdfhXwpkt3R4vbX61iG134V0QupsHv94xkD1bgnxLiZUb0uQw/viewform) 
+
+* Participating in an open-source community
+  * What are git and github?
+    * Git is Awesome
+  * When should you post to a forum vs. file a github issue?
+  * Who makes these things?
+  * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
+  * Setting up your own GitHub Blog to submit homework
+    * [SourceTree](https://www.sourcetreeapp.com) vs [GitHub Desktop](https://desktop.github.com) vs [`git`](https://try.github.io/levels/1/challenges/1)
+  * Pulling from this GitHub Site `https://github.com/michaelmusick/MART191_CreativeCoding/`
+* **TODO**
+  * [**Go to the HW Wiki**](https://github.com/michaelmusick/191_CreativeCoding/wiki/HW-Week-1.1)
+
 - Exercises / Assignments:
     -  Readings for Wednesday _(see below)_
 
