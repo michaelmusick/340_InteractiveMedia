@@ -44,7 +44,7 @@ This course will include a mix of reading, discussion, interactive development, 
     * [SourceTree](https://www.sourcetreeapp.com) vs [GitHub Desktop](https://desktop.github.com) vs [`git`](https://try.github.io/levels/1/challenges/1)
   * Pulling from this GitHub Site `https://github.com/michaelmusick/MART191_CreativeCoding/`
 * **TODO**
-  * [**Go to the HW Wiki**](https://github.com/michaelmusick/191_CreativeCoding/wiki/HW-Week-1.1)
+  * [**Go to the HW Wiki**](https://github.com/michaelmusick/340_InteractiveMedia/wiki/HW-Week-1.1)
 
 - Exercises / Assignments:
     -  Readings for Wednesday _(see below)_
