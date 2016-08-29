@@ -34,6 +34,7 @@ This course will include a mix of reading, discussion, interactive development, 
     1. Syllabus & Class overview. 
     2. [Background Survey.](https://docs.google.com/forms/d/e/1FAIpQLSdfhXwpkt3R4vbX61iG134V0QupsHv94xkD1bgnxLiZUb0uQw/viewform) 
 - Exercises / Assignments:
+    -  Readings for Wednesday _(see below)_
 
 ### Week 1.2: 8.31
 - Topic: Introduction to "interactive systems"
