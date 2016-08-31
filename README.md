@@ -21,7 +21,7 @@ This course will include a mix of reading, discussion, interactive development, 
 - UMT Moodle
 
 ## Homework Wiki
-- [Homework](https://github.com/michaelmusick/341_webDev/wiki)
+- [Homework](https://github.com/michaelmusick/340_interactiveMedia/wiki)
 
 ## Books (optional)
 - [https://www.interaction-design.org/literature](https://www.interaction-design.org/literature)
