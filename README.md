@@ -85,7 +85,7 @@ This course will include a mix of reading, discussion, interactive development, 
       * Downloading p5.js
        * Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
       * [p5.js reference](http://p5js.org/reference)
-    * [Uploading your sketch !!! ADD SOMETHING](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
+    * Uploading your sketch
     * Adding your response as a markdown file
     * <a id="optional-1">Optional viewing / reading:</a>
       * Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
