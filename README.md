@@ -51,6 +51,24 @@ This course will include a mix of reading, discussion, interactive development, 
 
 ### Week 1.2: 8.31
 - Topic: Introduction to "interactive systems" and "Hello World" for p5.js
+
+* Getting started, your first program
+  * Download Examples
+  * Drawing with numbers: [video tutorial](https://vimeo.com/channels/learningp5js/137979314)
+  * Shape and color functions: [video tutorial](https://vimeo.com/channels/learningp5js/137979312)
+  * `setup()` and `draw()`
+  * Downloading p5.js
+   * Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
+  * [p5.js reference](http://p5js.org/reference)
+* [Uploading your sketch !!! ADD SOMETHING](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
+* Adding your response as a markdown file
+* <a id="optional-1">Optional viewing / reading:</a>
+  * Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
+  * [Introductory p5.js videos](https://vimeo.com/channels/learningp5js/)
+  * [FORM+CODE: Introduction and What is Code?](http://formandcode.com) 
+  * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
+  * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
+
 - Focus Areas: 
     1. What are "interactive systems" and "Interaction Experience Design". 
     2. Discussion of 
