@@ -38,7 +38,7 @@ Course Outline
 SECTON 1: Fundamentals
 ----------------------
 
-### Week 1.1: 8.29
+### 1.1: 8.29 -- "Hello World"
 
 -	Topic: Introduction to "interactive systems"
 -	Focus Areas:
@@ -65,7 +65,7 @@ SECTON 1: Fundamentals
 
 	-	Readings for Wednesday *(see below)*
 
-### Week 1.2: 8.31
+### 1.2: 8.31 -- Drawing
 
 -	Topic: Introduction to "interactive systems" and "Hello World" for p5.js
 
