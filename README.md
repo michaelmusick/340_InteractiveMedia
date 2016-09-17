@@ -325,9 +325,24 @@ Class will culminate with final projects. You are expected to push your abilitie
 
 IMPORTANT: Assignments handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one week of the due date will lose 1 point for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the faculty.
 
-### Grade Break Down    Grades will be determined according to the following breakdown:* Projects 50%* Participation and Attendance 30%* Final Project 20%
+### Grade Break Down   
+Grades will be determined according to the following breakdown:
+* Projects 50%
+* Participation and Attendance 30%
+* Final Project 20%
 
-Letter Break Downs - A 95-100 - A- 90-94 - B+ 86-89 - B 83-85 - B- 80-82 - C+ 76-79 - C 73-75 - C- 70-72 - D 60-69 - F 0-59
+Letter Break Downs
+
+-	A 95-100 
+-	A- 90-94 
+-	B+ 86-89 
+-	B 83-85 
+-	B- 80-82 
+-	C+ 76-79 
+-	C 73-75 
+-	C- 70-72 
+-	D 60-69 
+-	F 0-59
 
 Academic Misconduct and the Student Conduct Code
 ------------------------------------------------
