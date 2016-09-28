@@ -44,7 +44,7 @@ var sadFace = {
 	flipMouth: function() {
 		this.mouthOffset = (this.mouthOffset + PI) % TWO_PI;
 	}
-}
+};
 
 
 

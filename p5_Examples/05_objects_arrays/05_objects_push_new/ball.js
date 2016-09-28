@@ -14,7 +14,7 @@ function Ball(tempX, tempY, tempW) {
 Ball.prototype.gravity = function() {
   // Add gravity to speed
   this.speed = this.speed + gravity;
-}
+};
 
 Ball.prototype.move = function() {
   // Add speed to y location
@@ -25,11 +25,11 @@ Ball.prototype.move = function() {
     this.speed = this.speed * -0.95;
     this.y = height;
   }
-}
+};
 
 Ball.prototype.display = function() {
   // Display the circle
   fill(101);
   stroke(255);
   ellipse(this.x,this.y,this.w,this.w);
-}
+};
