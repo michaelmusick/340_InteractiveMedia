@@ -11,10 +11,14 @@ function setup() {
 }
 
 function draw() {
+	background(0);
 	for (var i = 0; i < b.length; i++) {
-		if (mouseX >= b[i].xpos && mouseX<=b[i].xpos+b[i].w &&
-	 		mouseY >= b[i].ypos && mouseY<=b[i].ypos+b[i].h)
-		then ()
 		b[i].draw();
+		if (mouseX >= b[i].x && mouseX<=b[i].x+b[i].w &&
+			mouseY >= b[i].y && mouseY<=b[i].y+b[i].h){
+				b[i].visible=false;
+			}
+
+
+		}
 	}
-}
