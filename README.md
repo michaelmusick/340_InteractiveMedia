@@ -194,126 +194,106 @@ I may have an orientation session during this class period. Stay tuned for more 
 -	Checking objects intersecting with other objects [video tutorial 6.9](), [video tutorial 6.10](https://vimeo.com/141919521)
 -	loading images for objects [video tutorial 6.11](https://vimeo.com/141919525)
 
-### 6.1 -- HTML and CSS
+### Weeks 6 and 7 
+Catch up on functions, objects, arrays, and program logic. 
 
-(First week of October) - Review events -- mousePressed, keyPressed - [Tutorial: Intro to HTML/CSS basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS#css)
+### 8.1 -- HTML and CSS
+(First week of October)
+- Review events -- mousePressed, keyPressed
+- [Tutorial: Intro to HTML/CSS basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS#css)
 
-### 6.2 -- DOM: events and callback function
 
--	[Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
--	DOM elements - [p5.dom reference](http://p5js.org/reference/#/libraries/p5.dom)
-	-	`createP()`
-	-	`createButton()`
-	-	`createSlider()`
--	Callbacks
-	-	`button.mousePressed(callback);`
--	`style()` -- low key intro to CSS
--	[CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
+### 8.2 -- DOM: events and callback function
+- [Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+- DOM elements - [p5.dom reference](http://p5js.org/reference/#/libraries/p5.dom)
+    - `createP()`
+    - `createButton()` 
+    - `createSlider()`
+- Callbacks
+    - `button.mousePressed(callback);` 
+- `style()` -- low key intro to CSS
+- [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
-### 7.1 -- Data
 
--	[Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+### 9.1 -- Data
+- [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
-### 7.2 -- Data
 
--	[Tutorial: more about data and APIs](http://shiffman.github.io/A2Z-F15/week4/notes.html)
--	JSON and APIs (and more on callbacks!)
--	Word Counting
+### 9.2 -- Data
+- [Tutorial: more about data and APIs](http://shiffman.github.io/A2Z-F15/week4/notes.html)
+- JSON and APIs (and more on callbacks!)
+- Word Counting
 
-### 8.1 -- Data
+### 10.1 -- Data
+- Tabular data
+- Optional Reading:
+  - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
+  - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 
--	Tabular data
--	Optional Reading:
-	-	[Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp
-	-	[The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
+### 10.1 -- Sound
+- [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
+- Sound
+- Live capture
 
-### Week 9.1: 10.24
+### 10.2 -- What can we do with sound
+- Michael geeks out in his favorite land
 
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
+### 11.1 -- Video
+- [Video/capture: p5.MediaElement reference](http://p5js.org/reference/#/p5.MediaElement)
+- Movie playback
+- Video Assignment
 
-### Week 9.1: 10.26
+### 11.2 - NO CLASS 
+(Michael is out of town)
 
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
+### 12.1 -- Final Project Proposals
+- Possible topics for Final Projects
+- Present and receive feedback on final project proposals.
 
-### Week 10.1: 10.31
+### 12.2 -- Video cont'd & Review for Exam
+- Continue work from previous week.
 
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
 
-### Week 10.2: 11.2
+### 13.1 -- EXAM
+- **EXAM**
 
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
+### 13.2 -- Go Home
 
-SECTION 3:
-----------
+### 14.1 -- Mobile
+- Workflow and process, get a previous sketch running on a device
+- Touch interaction
+- Sensors
+- [More mobile examples from Jia](https://github.com/OhJia/p5MobileWebExamples)
+- [p5 mobile workflows by Jia](https://github.com/OhJia/p5Mobile/wiki/Workflows)
+- [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+- [Hammer.js](http://hammerjs.github.io/)
+- Homework: Prepare a final project proposal.
 
-### Week 11.1: 11.7
+### 14.2 -- Beyond p5.js
+- Life beyond p5.js
+  - Take Creative Coding into the spring semester courses 
+  - Other JS libraries?
+  - Coding outside the p5 IDE? ([local server tutorial](https://github.com/processing/p5.js/wiki/Local-server))
+  - [local server tutorial](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
+  - [More HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
+  - What is server side programming for?
+  - [Processing](http://processing.org)
+  - Open source
+    - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
+  - How do you  get involved with this?
 
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
+### 15 -- One on one speed user testing / feedback
+(December)
+- This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-### Week 11.2: 11.9
 
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
+### FINALS WEEK -- Final Project Presentations
+- Please add your link to your final project documentation on the wiki.
 
-### Week 12.1: 11.14
 
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
 
-### Week 12.2: 11.16
-
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
-
-### Week 13.1: 11.21
-
-THANKSGIVING BREAK [Wednesday, Thursday, Friday Holiday] - Topic: **EXAM**
-
-### Week 14.1: 11.28
-
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
-
-### Week 14.2: 11.30
-
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
-
-### Week 15.1: 12.5
-
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
-
-### Week 15.2: 12.7
-
--	Topic:
--	Focus Areas: 1.
--	Exercises / Assignments:
-
-### Finals Week: 12.12
-
--	Exercises / Assignments:
-
-Policies
-========
-
-##Evaluation
+# Policies
+## Evaluation
 
 We will have weekly assignments that are relevant to material from the previous class. These assignments are required and you should be prepared to show/talk about them in class. It is expected that everyone in the class will create and maintain a blog for their assignments.
 
@@ -353,3 +333,4 @@ Changes to the Course
 ---------------------
 
 I reserve the right to change the intended content of this course throughout the semester. This may be done to adjust for the speed of the class, to better meet educational goals, or to account for changes in technology.
+[](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS#css))
