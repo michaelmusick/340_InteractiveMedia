@@ -288,6 +288,7 @@ Catch up on functions, objects, arrays, and program logic.
 
 
 ### FINALS WEEK -- Final Project Presentations
+Friday, December 16th from 1:10pm – 3:10pm per the [University Finals Schedule](http://www.umt.edu/registrar/PDF/Autumn2016finalexamschedule2.pdf)
 - Please add your link to your final project documentation on the wiki.
 
 
