@@ -238,17 +238,17 @@ Catch up on functions, objects, arrays, and program logic.
 ### 10.2 -- What can we do with sound
 - Michael geeks out in his favorite land
 
-### 11.1 -- Video
+### 11.2 - NO CLASS
+(Michael is out of town)
+
+
+### 12.1 -- Final Project Proposals -- Video
+- Possible topics for Final Projects
+- Present and receive feedback on final project proposals.
+
 - [Video/capture: p5.MediaElement reference](http://p5js.org/reference/#/p5.MediaElement)
 - Movie playback
 - Video Assignment
-
-### 11.2 - NO CLASS 
-(Michael is out of town)
-
-### 12.1 -- Final Project Proposals
-- Possible topics for Final Projects
-- Present and receive feedback on final project proposals.
 
 ### 12.2 -- Video cont'd & Review for Exam
 - Continue work from previous week.
@@ -259,6 +259,10 @@ Catch up on functions, objects, arrays, and program logic.
 
 ### 13.2 -- Go Home
 
+### 14.1 & 14.2 -- Video & Sound cont'd
+- Continue work from previous week.
+
+<!-- 
 ### 14.1 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
@@ -271,7 +275,7 @@ Catch up on functions, objects, arrays, and program logic.
 
 ### 14.2 -- Beyond p5.js
 - Life beyond p5.js
-  - Take Creative Coding into the spring semester courses 
+  - Take Creative Coding into the spring semester courses
   - Other JS libraries?
   - Coding outside the p5 IDE? ([local server tutorial](https://github.com/processing/p5.js/wiki/Local-server))
   - [local server tutorial](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
@@ -279,8 +283,9 @@ Catch up on functions, objects, arrays, and program logic.
   - What is server side programming for?
   - [Processing](http://processing.org)
   - Open source
-    - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
+    - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc?
   - How do you  get involved with this?
+-->
 
 ### 15 -- One on one speed user testing / feedback
 (December)
